@@ -23,7 +23,6 @@ class BankAccount:
         print(f"Current Balance: {self.balance}")
 
 
-# ----- Main Program -----
 account = BankAccount("User", 1000)
 
 while True:
